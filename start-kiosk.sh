@@ -12,4 +12,4 @@ sleep 2
 export DISPLAY=:0
 
 # Launch Chromium in Kiosk mode
-chromium --kiosk --noerrdialogs --disable-infobars --no-first-run http://localhost:8001#!/bin/bash
+chromium --kiosk --noerrdialogs --disable-infobars --no-first-run http://localhost:8001
